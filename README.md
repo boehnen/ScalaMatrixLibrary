@@ -1,7 +1,5 @@
 # ScalaMatrixLibrary
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c73fbc3c518b4bd1a31efaf6ca9ec18b)](https://app.codacy.com/app/mengistristen/ScalaMatrixLibrary?utm_source=github.com&utm_medium=referral&utm_content=JustinBoehnen/ScalaMatrixLibrary&utm_campaign=Badge_Grade_Dashboard)
-
 A matrix library for Scala that supports various matrix operations
 
 ## Documentation
